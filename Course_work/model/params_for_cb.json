@@ -1,0 +1,1 @@
+{"learning_rate": 0.05, "max_depth": 4, "reg_lambda": 25.0, "min_data_in_leaf": 1, "colsample_bylevel": 0.25, "subsample": 0.95, "loss_function": "Logloss", "eval_metric": "AUC", "verbose": 0, "early_stopping_rounds": 100}

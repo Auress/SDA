@@ -1,0 +1,1 @@
+{"boosting_type": "gbdt", "learning_rate": 0.02, "num_leaves": 21, "max_depth": -1, "reg_alpha": 1.0, "reg_lambda": 25.0, "min_child_samples": 250, "min_child_weight": 1, "colsample_bytree": 0.25, "subsample": 0.95}
